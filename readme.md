@@ -169,6 +169,6 @@ LibreTV 仅作为视频搜索工具，不存储、上传或分发任何视频内
 
 ## 💝 支持项目
 
-如果您想支持本项目，可以考虑进行捐款：
+如果您想支持本项目，可以考虑进行捐款：xxxxxxxxxxxxxxxxxxx
 
 [![捐赠](https://img.shields.io/badge/捐赠-UNICEF-1a85ff?style=for-the-badge&logo=unicef)](https://www.unicef.org/zh)
